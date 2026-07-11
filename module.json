@@ -1,59 +1,15 @@
-{
-  "id": "sacreds-runic-sanctum",
-  "title": "Sacred's Runic Sanctum",
-  "version": "1.0.0",
-  "manifest": "https://github.com/SacredConviction/sacreds-runic-sanctum/releases/download/module.json",
-  "download": "https://github.com/SacredConviction/sacreds-runic-sanctum/releases/download/1.0.0/module.zip",
-  "compatibility": {
-    "minimum": "14",
-    "verified": "14"
-  },
-  "flags": {
-    "canUpload": true
-  },
-  "packs": [
-    {
-      "name": "rune-chisels",
-      "label": "Sacred's Runic Sanctum(Rune Chisels)",
-      "path": "packs/rune-chisels",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "how-runes-work",
-      "label": "Sacred's Runic Sanctum(How Runes Work)",
-      "path": "packs/how-runes-work",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "rune-roll-tables",
-      "label": "Sacred's Runic Sanctum(Roll Tables)",
-      "path": "packs/rune-roll-tables",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    }
-  ],
-  "description": "<p><span style=\"font-size:x-large\">Sacred's Runic Sanctum:</span></p><p>A supplement to Dungeon and Dragon's 5.5e magic item system based off of Pathfinder 2 edition Runes system.</p>",
-  "authors": [
-    {
-      "name": "Sacred",
-      "flags": {}
-    }
-  ]
-}
+2026/07/09-19:10:51.284648 7fdbe37fe6c0 Recovering log #24
+2026/07/09-19:10:51.315484 7fdbe37fe6c0 Delete type=0 #24
+2026/07/09-19:10:51.315606 7fdbe37fe6c0 Delete type=3 #22
+2026/07/11-01:28:08.071585 7fd9cffff6c0 Level-0 table #29: started
+2026/07/11-01:28:08.082439 7fd9cffff6c0 Level-0 table #29: 13799 bytes OK
+2026/07/11-01:28:08.093644 7fd9cffff6c0 Delete type=0 #27
+2026/07/11-01:28:08.212975 7fd9cffff6c0 Manual compaction at level-0 from '!tables!7WUodgouJursZyW7' @ 72057594037927935 : 1 .. '!tables.results!yEf1V3fRG9OWo0fI.z5fnyNxwvP9qWKTv' @ 0 : 0; will stop at (end)
+2026/07/11-01:28:08.244142 7fd9cffff6c0 Manual compaction at level-1 from '!tables!7WUodgouJursZyW7' @ 72057594037927935 : 1 .. '!tables.results!yEf1V3fRG9OWo0fI.z5fnyNxwvP9qWKTv' @ 0 : 0; will stop at '!tables.results!yEf1V3fRG9OWo0fI.z5fnyNxwvP9qWKTv' @ 39 : 1
+2026/07/11-01:28:08.244165 7fd9cffff6c0 Compacting 1@1 + 1@2 files
+2026/07/11-01:28:08.257992 7fd9cffff6c0 Generated table #30@1: 47 keys, 13153 bytes
+2026/07/11-01:28:08.258019 7fd9cffff6c0 Compacted 1@1 + 1@2 files => 13153 bytes
+2026/07/11-01:28:08.269476 7fd9cffff6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/11-01:28:08.269581 7fd9cffff6c0 Delete type=2 #29
+2026/07/11-01:28:08.269742 7fd9cffff6c0 Delete type=2 #5
+2026/07/11-01:28:08.333306 7fd9cffff6c0 Manual compaction at level-1 from '!tables.results!yEf1V3fRG9OWo0fI.z5fnyNxwvP9qWKTv' @ 39 : 1 .. '!tables.results!yEf1V3fRG9OWo0fI.z5fnyNxwvP9qWKTv' @ 0 : 0; will stop at (end)
