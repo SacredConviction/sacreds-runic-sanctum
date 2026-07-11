@@ -123,7 +123,7 @@ Already magical items can still be inscribed with Runes, a +1 set of magical arm
   - Altering(Superior) - The item casts Transmutation spells as 1(2) levels higher than the expended spell slot to a maximum of your highest level spell slot and not beyond 9th level - 5,000(50,000) GP
   - Frugal(Superior) - The item reduces the material cost in GP to cast spells with it by 25%(50%) - 5,000(50,000) GP
   - Feyous - The item causes you to roll on the Wild Magic Surge table whenever you cast a levelled spell - 120,000 GP
-  - Lunarious - The item causes you to roll on the Lunar Surge table whenever you cast a levelled spell - 200,000 GP
+  - Lunarious - The item causes you to roll on the Lunar Surge table whenever you cast a levelled spell - 500,000 GP
 - Any:
   - Illuminating - The item sheds bright light within 15ft and dim light for 30ft - 150 GP
   - Sheltering - The item stops rain and other precipitation in a 15ft radius - 150 GP
